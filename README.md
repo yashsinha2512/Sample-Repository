@@ -1,7 +1,7 @@
 ![Repo Banner](resources/github-banner.png)
+
 # Sample-Repository
 
-I added this line to demonstrate my contribution to the Project
-
-will: I added this line, not knowing @zrqx has made changes to teh original repository
-zrqx: I added this line and @will hasn't synced his Forked repo yet
+| Date | Event Name | Organistaion | Event Type | Website | Details |
+|------|------------|--------------|------------|---------|---------|
+| 10 October 2022 | Hactobertest | Digitalocean | Event | hactoberfest.com | Something |
