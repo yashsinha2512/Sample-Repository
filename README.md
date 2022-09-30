@@ -1,3 +1,4 @@
+![Repo Banner]('../resources/github-banner.png')
 # Sample-Repository
 
 I added this line to demonstrate my contribution to the Project
